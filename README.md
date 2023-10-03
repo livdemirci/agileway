@@ -1,3 +1,3 @@
 # agileway
-https://medium.com/@livdemirci/selenium-webdriver-java-ile-tarih-seciminde-edge-case-handle-edilmesi-edefa01f1c76
+https://medium.com/@livdemirci/page-object-model-pom-usage-in-selenium-java-cucumber-d14899f7b8f7
 Page Object Model (POM)Usage in Selenium Java Cucumber
